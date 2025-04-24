@@ -1,0 +1,6 @@
+labels, energies
+A, -10
+TS1, -5
+B, -30
+TS2, -5
+C, -90
